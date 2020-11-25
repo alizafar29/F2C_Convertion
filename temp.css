@@ -1,0 +1,30 @@
+.col2{
+    margin-top: 10%;
+}
+
+#fahren{
+    margin-left: 3.5%;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 64%;
+}
+
+#cel{
+    margin-left: 10%;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 64%;
+}
+
+.btngroup{
+    margin: 5% 0% 5% 27%;
+}
+.btngroup button{
+    border: 1px solid gray;
+    padding: 7px 5px;
+    border-radius: 3px;
+    width: auto;
+}
+.row{
+width: 100%;
+}
